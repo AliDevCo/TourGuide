@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="name">Minya Guide</string>
+    <string name="alreadyMember">Already Member</string>
+    <string name="app_logo">App Logo</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="learnMore">Learn More</string>
+    <string name="free_trial">Free Trial</string>
+    <string name="login">Login</string>
+    <string name="describtion">Minya Governorate is one of the governorates of the Upper Egypt. The name is undertaken from the chief city of the governorate, originally known as Sahidic Coptic as Bohairic and Tmoone, meaning “the residence”, in reference to the monastery formerly in the region.</string>
+    <string name="title_activity_login">Login</string>
+</resources>
